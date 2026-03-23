@@ -44,4 +44,4 @@ I moved beyond standard aggregations to create complex logic for business growth
 * **GitHub:** Version control and documentation.
 
 ---
-*Developed by Tejvarun (Varun) Kattola*
+*Developed by Tejvarun Kattola*

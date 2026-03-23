@@ -1,0 +1,51 @@
+model_id,model_name,segment,drive_type,base_battery_kWh,base_range_km,launch_year
+1,Tesla Model 3,Midsize Sedan,RWD,57,430,2017
+2,Tesla Model S Plaid,Midsize Sedan,AWD,75,560,2017
+3,Tesla Model Y Performance,Midsize Sedan,AWD,75,510,2018
+4,Tesla Cybertruck Dual Motor,Luxury Sedan,AWD,100,650,2012
+5,Nissan Leaf 62kWh,Luxury Sedan,AWD,100,630,2021
+6,Nissan Ariya,Luxury SUV,AWD,100,560,2015
+7,Hyundai Kona Electric,Luxury SUV,AWD,100,540,2021
+8,Hyundai Ioniq 5,Compact SUV,RWD,60,455,2020
+9,Hyundai Ioniq 6,Compact SUV,AWD,75,533,2020
+10,Kia EV6,Compact SUV,AWD,75,510,2020
+11,Kia Niro EV,Pickup,AWD,123,550,2023
+12,Kia EV9,Pickup,AWD,123,610,2024
+13,Tata Nexon EV LR,Compact Hatchback,FWD,40,240,2017
+14,Tata Punch EV,Compact Hatchback,FWD,62,360,2019
+15,Tata Tigor EV,Compact SUV,FWD,39,305,2018
+16,Mahindra XUV400 EV,Compact SUV,FWD,64,450,2018
+17,MG ZS EV,Midsize Crossover,RWD,58,385,2021
+18,MG Comet EV,Midsize Crossover,RWD,77,480,2021
+19,BYD Atto 3,Midsize Crossover,RWD,58,380,2021
+20,BYD Seal,Midsize Crossover,RWD,77,500,2021
+21,BYD Dolphin,Compact Hatchback,RWD,58,420,2019
+22,Volkswagen ID.4,Compact SUV,RWD,77,520,2020
+23,Volkswagen ID.3,Luxury SUV,AWD,95,400,2018
+24,Audi Q8 e-tron,Compact SUV,RWD,77,480,2021
+25,Audi RS e-tron GT,Luxury SUV,AWD,80,380,2019
+26,BMW i4 eDrive40,Luxury Sedan,RWD,107,720,2021
+27,BMW iX3,Subcompact Hatchback,RWD,42,260,2018
+28,BMW i7,Midsize Sedan,RWD,81,590,2021
+29,Mercedes-Benz EQS 450+,Midsize SUV,RWD,80,460,2020
+30,Mercedes-Benz EQE,Subcompact Hatchback,FWD,52,390,2019
+31,Porsche Taycan,Subcompact Hatchback,FWD,50,340,2019
+32,Porsche Taycan Cross Turismo,Compact SUV,FWD,50,320,2019
+33,Volvo XC40 Recharge,Compact SUV,FWD,30,220,2020
+34,Polestar 2 Long Range,Compact SUV,FWD,40,310,2022
+35,Ford Mustang Mach-E,Compact Sedan,FWD,26,200,2021
+36,Ford F-150 Lightning,Compact SUV,FWD,60,420,2022
+37,Chevrolet Bolt EV,Luxury Sedan,AWD,85,550,2020
+38,Chevrolet Bolt EUV,Midsize Sedan,RWD,82,570,2022
+39,Rivian R1T,Midsize Sedan,RWD,80,550,2020
+40,Rivian R1S,Large SUV,AWD,100,500,2019
+41,Lucid Air Pure,Luxury Sedan,AWD,100,530,2022
+42,Lucid Air Grand Touring,Luxury Sedan,RWD,92,660,2021
+43,Peugeot e-208,Luxury Sedan,AWD,112,830,2022
+44,Renault Zoe,Pickup,AWD,135,520,2021
+45,Fiat 500e,SUV,AWD,135,510,2022
+46,Mini Cooper SE,Compact SUV,RWD,68,400,2020
+47,Lexus RZ 450e,Compact SUV,AWD,88,490,2020
+48,Genesis GV60,Compact SUV,AWD,78,410,2020
+49,Cadillac Lyriq,Midsize Sedan,AWD,78,480,2020
+50,Rolls-Royce Spectre,Compact SUV,FWD,71,410,2022

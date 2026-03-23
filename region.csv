@@ -1,0 +1,51 @@
+region_id,region_name,continent,main_currency,population_millions
+1,Asia,Asia,Mixed,4600
+2,Europe,Europe,EUR,750
+3,North America,North America,USD,600
+4,Middle East,Asia,Mixed,270
+5,India,Asia,INR,1428
+6,China,Asia,CNY,1410
+7,Japan,Asia,JPY,125
+8,South Korea,Asia,KRW,52
+9,Singapore,Asia,SGD,5.6
+10,Thailand,Asia,THB,71
+11,Vietnam,Asia,VND,99
+12,Indonesia,Asia,IDR,276
+13,Philippines,Asia,PHP,115
+14,Pakistan,Asia,PKR,240
+15,Bangladesh,Asia,BDT,170
+16,Germany,Europe,EUR,84
+17,France,Europe,EUR,68
+18,United Kingdom,Europe,GBP,68
+19,Norway,Europe,NOK,5.5
+20,Netherlands,Europe,EUR,18
+21,Sweden,Europe,SEK,10.5
+22,Denmark,Europe,DKK,6
+23,Spain,Europe,EUR,48
+24,Italy,Europe,EUR,59
+25,Portugal,Europe,EUR,10.4
+26,Switzerland,Europe,CHF,8.8
+27,Belgium,Europe,EUR,11.7
+28,Finland,Europe,EUR,5.6
+29,Poland,Europe,PLN,37.5
+30,Ireland,Europe,EUR,5.1
+31,United States,North America,USD,333
+32,Canada,North America,CAD,39
+33,Mexico,North America,MXN,128
+34,United Arab Emirates,Asia,AED,10
+35,Saudi Arabia,Asia,SAR,36
+36,Israel,Asia,ILS,9.5
+37,Qatar,Asia,QAR,3
+38,Kuwait,Asia,KWD,4.3
+39,Oman,Asia,OMR,4.7
+40,Bahrain,Asia,BHD,1.8
+41,Australia,Oceania,AUD,26
+42,New Zealand,Oceania,NZD,5.1
+43,Brazil,South America,BRL,214
+44,Chile,South America,CLP,19.5
+45,Argentina,South America,ARS,46
+46,Colombia,South America,COP,52
+47,Peru,South America,PEN,34
+48,South Africa,Africa,ZAR,60
+49,Egypt,Africa,EGP,110
+50,Morocco,Africa,MAD,38
